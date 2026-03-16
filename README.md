@@ -396,5 +396,4 @@ housing-prices-prediction-kaggle-r
 ---
 
 # Author
-
-Data science project developed as part of a Kaggle machine learning challenge.
+FERRIGNO STEFANO 
